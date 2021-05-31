@@ -10,13 +10,8 @@
 
 ## References
 
-### Background image
+### Used provided template for Lab02 instructions
 ```
-https://unsplash.com/photos/KZnu5BcUiDM
-```
-
-### Circular check boxes reference
-```
-https://stackoverflow.com/questions/29617200/how-to-make-checkboxes-rounded/41941208
+https://github.com/carolinebarriere/carolinebarriere.github.io/tree/master/SEG3125-Module2-Grocery
 ```
 
