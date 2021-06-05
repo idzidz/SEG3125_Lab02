@@ -1,4 +1,4 @@
-# SEG3125 Lab01
+# SEG3125 Lab02
 
 |X|Value|
 |---|---|
